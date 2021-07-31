@@ -4,7 +4,8 @@ Welcome to my GitHub page.
 
 I'm currently a sophomore, majoring in Software Engineering. I have a huge knack for algorithm design and data structures.
 
-I'm a leader of VNOI technical team. We built a [Vietnames Online Judge](http://oj.vnoi.info/) with over 150 000 monthly page views, you can check its repo [here](https://github.com/VNOI-Admin/OJ) 
+I'm a leader of VNOI technical team. We built a [Vietnamese Online Judge](http://oj.vnoi.info/) with over 150 000 monthly page views, you can check its repo [here](https://github.com/VNOI-Admin/OJ) 
+
 
 <p align="center">
 <img src="https://github.com/leduythuccs/github-stats/blob/master/generated/overview.svg">
