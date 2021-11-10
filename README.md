@@ -2,9 +2,9 @@
 
 Welcome to my GitHub page. 
 
-I'm currently a sophomore, majoring in Software Engineering. I have a huge knack for algorithm design and data structures.
+I'm currently a 3rd-year student, majoring in Computer Science. I have a huge knack for algorithm design and data structures.
 
-I'm a leader of VNOI technical team. We built a [Vietnamese Online Judge](http://oj.vnoi.info/) with over 450 000 monthly page views, you can check its repo [here](https://github.com/VNOI-Admin/OJ) 
+I'm a leader of [VNOI](https://team.vnoi.info/) technical team. We built a [Vietnamese Online Judge](http://oj.vnoi.info/) with over 800 000 monthly page views, 8000+ user, you can check its repo [here](https://github.com/VNOI-Admin/OJ). We are looking for help to maintaining/upgrading the project as well (new feature, security, reduce response time, ...).
 
 
 <p align="center">
